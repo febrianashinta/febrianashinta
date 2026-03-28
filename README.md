@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**febrianashinta/febrianashinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hii hii 👋 
 
-Here are some ideas to get you started:
+Namaku Febriana Dery Shinta, bisa dipanggil febb 😆✨  
+Awalnya aku suka belajar matematika dan kemudian aku tertarik ke dunia coding waktu kuliah semester 2 💻💖 
+Waktu kuliah bahasa pemograman yang diajarkan yaitu bahasa Pascal, kemudian di semester akhir aku mencoba membuat aplikasi pembelajaran berbais Augmented Reality untuk membantu belajar matematika materi bangun ruang dengan menggunakan bahasa C# 
+Kemudian saya explore belajar cara membuat web dengan menggunakan HTML, CSS, dan Javascript.
+Sekarang lagi belajar bahasa pemograman Python dan Data 🐍📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💌 Yuk temenan:
+- Instagram: @fxshnt4x
+- Email: febrianashinta42@gmail.com
+
+Thakyou yang sudah baca yaa ..
+Let's be friends! 🥺💖
